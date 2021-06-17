@@ -5,7 +5,7 @@
 - Có thể xem các tùy chọn bằng lệnh `uptime -help`
 - Ví dụ:
 
-<img src="">
+<img src="https://github.com/lean15998/Linux/blob/main/images/27.1.PNG">
 
 - Theo thứ tự xuất hiện của kết quả trên chúng ta có:
 <ul>
@@ -19,8 +19,9 @@
 
 # 2. Lệnh w
 
-<img src="">
+<img src="https://github.com/lean15998/Linux/blob/main/images/27.1.PNG">
 
+- Có thể sử dụng lệnh `w <options> để xem các tùy chọn`
 - Lệnh sẽ hiển thị theo thứ tự:
 
 <ul>
